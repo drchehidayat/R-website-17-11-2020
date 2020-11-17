@@ -1,0 +1,9 @@
+---
+title: RUG conference 2020
+author: Dr Hidayat
+date: '2020-11-18'
+slug: []
+categories:
+  - Medical statistic
+tags: []
+---
